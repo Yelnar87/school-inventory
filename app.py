@@ -14,7 +14,7 @@ st.title("🏫 Дэшборд учета школьного оборудован
 st.markdown("Данные загружаются напрямую из Google Таблицы.")
 
 # Вставьте сюда вашу ссылку на опубликованный CSV из Google Таблиц
-GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/ВАШ_ID/pub?gid=0&single=true&output=csv"
+GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR2nE_fxZPQFUOD35nafGfvuEMLjwLz2hxPJ_f4xLecJ_LDKT-J6KZkQRpBcyePmjVKN5yh8g7e_5lP/pub?gid=0&single=true&output=csv"
 
 COLUMN_MAPPING = {
     "id школы": "school_id",
